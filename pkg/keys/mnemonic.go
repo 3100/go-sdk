@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	secp256k1 "github.com/btcsuite/btcd/btcec"
-	"github.com/cosmos/cosmos-sdk/crypto/keys/hd"
+	"github.com/harmony-one/go-sdk/pkg/keys/hd"
 	"github.com/tyler-smith/go-bip39"
 )
 
